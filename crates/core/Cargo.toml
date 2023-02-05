@@ -18,6 +18,7 @@ harness = false
 
 [dependencies]
 mchprs_proc_macros = { path = "../proc_macros" }
+enum_dispatch = "0.3"
 toml = "0.5"
 byteorder = "1.4"
 hematite-nbt = "0.5"
